@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class FirstSnippet {
+public class FileAndFolderCreation {
 
 
 	static void fileCreation() {
@@ -110,12 +110,5 @@ public class FirstSnippet {
 
 	}
 
-	public static void main(String[] args) {
-		// folderAndFileCreation();
-		// writeDataToFile();
-		removeUnfilledNodes();
-		System.out.println("done");
-
-	}
-
+	
 }
