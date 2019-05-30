@@ -110,5 +110,9 @@ public class FileAndFolderCreation {
 
 	}
 
-	
+	static void allMethods(){
+		folderAndFileCreation();
+		writeDataToFile();
+		removeUnfilledNodes();
+	}
 }
